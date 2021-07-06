@@ -8,7 +8,7 @@ import yandex_music
 # https://discord.com/api/oauth2/authorize?client_id=861599847441104926&permissions=2184277249&scope=bot
 
 # Options
-token = 'ODYxNTk5ODQ3NDQxMTA0OTI2.YOMJYw.8Q6ZIfp_hr4_TCJYOwoAebhPAI0'
+token = '*** YOUR TOKEN ***'
 bot = commands.Bot(command_prefix='/')
 # Setting up YandexMusic
 ymcl = yandex_music.Client.from_credentials('achtest22@yandex.ru', 'tEs#t22')
